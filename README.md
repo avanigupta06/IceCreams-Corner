@@ -35,12 +35,11 @@ It includes authentication, shopping cart, order management, and OTP-based passw
 
 ## ⚙️ Tech Stack
 
-- **Backend**: Django, SQLite/PostgreSQL
-- **Frontend**: HTML5, CSS3, Bootstrap 5, Owl Carousel, FontAwesome
+- **Backend**: Django, SQLite
+- **Frontend**: HTML5, CSS3, Bootstrap 5
 - **Authentication**: Django Auth System + OTP (Email)
-- **Database**: Django ORM (default SQLite, can switch to PostgreSQL)
-- **Messaging**: Django messages framework
-- **Deployment Ready**: Can be deployed on Railway, Heroku, or AWS
+- **Database**: Django (default SQLite)
+- **Deployment**: Render
 
 ---
 
